@@ -1,5 +1,14 @@
 {
   "basepath": "/",
-  "url": "https://hoverboard-master.web.app/",
-  "googleMapApiKey": "AIzaSyCJqlRVGIe6bfU43rga3cnK7tSXXwc7JD8"
+  "url": "pacific-region-devfest-2022.firebaseapp.com",
+  "googleMapApiKey": "AIzaSyBsvDhUfXKfzZ1WWkTqlp39rapF_qgwyAM",
+  "firebase": {
+    "apiKey": "AIzaSyBsvDhUfXKfzZ1WWkTqlp39rapF_qgwyAM",
+    "authDomain": "pacific-region-devfest-2022.firebaseapp.com",
+    "projectId": "pacific-region-devfest-2022",
+    "storageBucket": "pacific-region-devfest-2022.appspot.com",
+    "messagingSenderId": "533821356716",
+    "appId": "1:533821356716:web:4ab1b2c0886b0e56bf7d09",
+    "measurementId": "G-B75L5X61V0"
+  }
 }
