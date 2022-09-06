@@ -47,26 +47,6 @@ const ROUTES: Route[] = [
     },
   },
   {
-    path: '/blog',
-    children: [
-      {
-        path: '',
-        component: 'blog-list-page',
-        action: async () => {
-          await import('./pages/blog-list-page.js');
-        },
-      },
-      { path: '/posts/:id', redirect: '/blog/:id' },
-      {
-        path: '/:id',
-        component: 'post-page',
-        action: async () => {
-          await import('./pages/post-page.js');
-        },
-      },
-    ],
-  },
-  {
     path: '/schedule',
     component: 'schedule-page',
     action: async () => {
@@ -124,25 +104,25 @@ const ROUTES: Route[] = [
       },
     ],
   },
-  {
-    path: '/previous-speakers',
-    children: [
-      {
-        path: '',
-        component: 'previous-speakers-page',
-        action: async () => {
-          await import('./pages/previous-speakers-page.js');
-        },
-      },
-      {
-        path: '/:id',
-        component: 'previous-speaker-page',
-        action: async () => {
-          await import('./pages/previous-speaker-page.js');
-        },
-      },
-    ],
-  },
+  // {
+  //   path: '/previous-speakers',
+  //   children: [
+  //     {
+  //       path: '',
+  //       component: 'previous-speakers-page',
+  //       action: async () => {
+  //         await import('./pages/previous-speakers-page.js');
+  //       },
+  //     },
+  //     {
+  //       path: '/:id',
+  //       component: 'previous-speaker-page',
+  //       action: async () => {
+  //         await import('./pages/previous-speaker-page.js');
+  //       },
+  //     },
+  //   ],
+  // },
   {
     path: '/team',
     component: 'team-page',
