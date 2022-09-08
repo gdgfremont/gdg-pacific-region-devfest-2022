@@ -1,5 +1,5 @@
 import { initializeApp } from 'firebase/app';
-import { getFirestore } from 'firebase/firestore';
+import { getFirestore, initializeFirestore } from 'firebase/firestore';
 
 export const firebaseApp = initializeApp({
   apiKey: 'API_KEY',
@@ -11,4 +11,5 @@ export const firebaseApp = initializeApp({
   appId: 'APP_ID',
   measurementId: 'G-MEASUREMENT_ID',
 });
+initializeFirestore(firebaseApp, {ignoreUndefinedProperties: true});
 export const db = getFirestore(firebaseApp);

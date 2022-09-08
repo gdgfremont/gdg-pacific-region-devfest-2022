@@ -12,6 +12,7 @@ export const importTickets = () => {
 
   Object.keys(docs).forEach((docId: string) => {
     batch.set(firestore.collection('tickets').doc(docId.padStart(3, '0')), {
+      // @ts-ignore
       ...docs[Number(docId)],
       order: docId,
     });

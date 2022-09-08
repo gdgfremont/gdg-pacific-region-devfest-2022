@@ -3,7 +3,9 @@ import data from '../../docs/default-firebase-data.json';
 
 export const importPartners = () => {
   const partners = data.partners;
-  if (!Object.keys(partners).length) {
+
+  if (partners == null || partners == [] || !Object.keys(partners).length) {
+    console.log("returning");
     return Promise.resolve();
   }
   console.log('Importing partners...');
@@ -18,6 +20,7 @@ export const importPartners = () => {
         order: partner.order,
       });
 
+      // @ts-ignore
       partner.items.forEach((item, id) => {
         batch.set(
           firestore

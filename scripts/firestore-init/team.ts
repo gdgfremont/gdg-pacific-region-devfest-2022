@@ -11,13 +11,14 @@ export const importTeam = () => {
   const batch = firestore.batch();
 
   Object.keys(teams).forEach((teamId) => {
+    // @ts-ignore
     const team = teams[Number(teamId)];
     if (team) {
       batch.set(firestore.collection('team').doc(teamId), {
         title: team.title,
       });
 
-      team.members.forEach((member, id) => {
+      team.members.forEach((member: any, id: any) => {
         batch.set(
           firestore.collection('team').doc(`${teamId}`).collection('members').doc(`${id}`),
           member
