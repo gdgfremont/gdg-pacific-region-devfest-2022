@@ -57,11 +57,6 @@
           "name": "DevFest",
           "url": "https://devfest.withgoogle.com/",
           "newTab": true
-        },
-        {
-          "name": "Meet the Team",
-          "url": "https://devfest.gdg.org.ua/team/",
-          "newTab": true
         }
       ]
     },
