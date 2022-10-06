@@ -5,8 +5,8 @@
     "blog": "https://developers.google.com/community",
     "url": "https://developers.google.com/community/gdg"
   },
-  "startDate": "2022-11-03T13:00:00+03:00",
-  "endDate": "2022-10-14T16:00:00+03:00",
+  "startDate": "2022-11-03T13:00:00-07:00",
+  "endDate": "2022-11-03T16:00:00-07:00",
   "webapp": {
     "shortName": "DevFest 2022",
     "themeColor": "#673AB7",

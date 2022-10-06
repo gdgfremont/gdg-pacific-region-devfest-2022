@@ -11,7 +11,7 @@
   "config": {
     "notifications": {
       "icon": "/images/manifest/icon-192.png",
-      "timezone": "+03:00"
+      "timezone": "-07:00"
     },
     "rendertron": {
       "server": ""
