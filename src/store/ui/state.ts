@@ -11,6 +11,7 @@ export const initialUiState: UiState = {
   videoDialog: {
     open: false,
     youtubeId: '',
+    playlistId: '',
     title: '',
   },
   viewport: {

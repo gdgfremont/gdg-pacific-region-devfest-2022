@@ -26,6 +26,7 @@ export interface VideoDialog {
   open: boolean;
   title: string;
   youtubeId: string;
+  playlistId: string;
 }
 
 export interface UiState {

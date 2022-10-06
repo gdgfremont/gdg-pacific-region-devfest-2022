@@ -325,7 +325,8 @@ export class FeaturedVideos extends ReduxMixin(PolymerElement) {
     const presenters = video.speakers ? ` by ${video.speakers}` : '';
     const title = video.title + presenters;
     const youtubeId = video.youtubeId;
+    const playlistId = video.playlistId;
 
-    openVideoDialog({ title, youtubeId });
+    openVideoDialog({ title, youtubeId, playlistId });
   }
 }

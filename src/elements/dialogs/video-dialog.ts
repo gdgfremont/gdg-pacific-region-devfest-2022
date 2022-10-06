@@ -30,6 +30,7 @@ class VideoDialog extends ReduxMixin(PolymerElement) {
         <div class="video-wrapper">
           <lite-youtube
             video-id="[[video.youtubeId]]"
+            playlist-id="[[video.playlistId]]"
             video-title="[[video.title]]"
             params="autoplay=1"
             autoload

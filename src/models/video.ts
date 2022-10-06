@@ -3,4 +3,5 @@ export interface Video {
   thumbnail: string;
   title: string;
   youtubeId: string;
+  playlistId: string;
 }

@@ -115,6 +115,7 @@ export class AboutBlock extends ThemedElement {
     openVideoDialog({
       title: aboutBlock.callToAction.howItWas.label,
       youtubeId: aboutBlock.callToAction.howItWas.youtubeId,
+      playlistId: aboutBlock.callToAction.howItWas.playlistId,
     });
   }
 }

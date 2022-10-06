@@ -42,6 +42,7 @@ describe('about-block', () => {
     expect(mockToggleVideoDialogs).toHaveBeenCalledWith({
       title: aboutBlock.callToAction.howItWas.label,
       youtubeId: aboutBlock.callToAction.howItWas.youtubeId,
+      playlistId: aboutBlock.callToAction.howItWas.playlistId,
     });
   });
 });

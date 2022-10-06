@@ -21,6 +21,7 @@ export const closeVideoDialog = () => {
     payload: {
       open: false,
       youtubeId: '',
+      playlistId: '',
       title: '',
     },
   });

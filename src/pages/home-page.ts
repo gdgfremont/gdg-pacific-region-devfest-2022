@@ -281,6 +281,7 @@ export class HomePage extends ReduxMixin(PolymerElement) {
     openVideoDialog({
       title: this.aboutBlock.callToAction.howItWas.label,
       youtubeId: this.aboutBlock.callToAction.howItWas.youtubeId,
+      playlistId: this.aboutBlock.callToAction.howItWas.playlistId,
     });
   }
 

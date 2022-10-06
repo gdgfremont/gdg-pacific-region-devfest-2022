@@ -440,6 +440,7 @@ export class SessionPage extends ReduxMixin(PolymerElement) {
     openVideoDialog({
       title: this.session.title,
       youtubeId: this.session.videoId,
+      playlistId: this.session.playlistId ?? '',
     });
   }
 
