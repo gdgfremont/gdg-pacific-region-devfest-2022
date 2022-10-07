@@ -147,7 +147,7 @@ export class PreviousSpeakersPage extends ReduxMixin(PolymerElement) {
           <a class="speaker" href$="[[previousSpeakerUrl(speaker.id)]]" layout horizontal>
             <lazy-image
               class="photo"
-              src="[[speaker.photoUrl]]"
+              src="[[speaker.photo]]"
               alt="[[speaker.name]]"
             ></lazy-image>
 

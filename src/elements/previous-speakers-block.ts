@@ -87,7 +87,7 @@ export class PreviousSpeakersBlock extends ReduxMixin(PolymerElement) {
             <a class="speaker" href$="[[previousSpeakerUrl(speaker.id)]]">
               <lazy-image
                 class="photo"
-                src="[[speaker.photoUrl]]"
+                src="[[speaker.photo]]"
                 alt="[[speaker.name]]"
               ></lazy-image>
             </a>

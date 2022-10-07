@@ -220,7 +220,7 @@ export class SessionElement extends ReduxMixin(PolymerElement) {
               <div class="speaker" layout horizontal center>
                 <lazy-image
                   class="speaker-photo"
-                  src="[[speaker.photoUrl]]"
+                  src="[[speaker.photo]]"
                   alt="[[speaker.name]]"
                 ></lazy-image>
 

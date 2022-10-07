@@ -203,7 +203,7 @@ export class SpeakersPage extends ReduxMixin(PolymerElement) {
             <div relative>
               <lazy-image
                 class="photo"
-                src="[[speaker.photoUrl]]"
+                src="[[speaker.photo]]"
                 alt="[[speaker.name]]"
               ></lazy-image>
               <div class="badges" layout horizontal>
@@ -226,7 +226,7 @@ export class SpeakersPage extends ReduxMixin(PolymerElement) {
 
             <lazy-image
               class="company-logo"
-              src="[[speaker.companyLogoUrl]]"
+              src="[[speaker.companyLogo]]"
               alt="[[speaker.company]]"
             ></lazy-image>
 
