@@ -105,8 +105,8 @@
     "callToAction": {
       "featuredSessions": {
         "description": "Pacific Region DevFest 2022 brings together the world class experts in Web, Cloud, Machine Learning technologies to Mountain View for sessions and talks.",
-        "label": "",
-        "link": ""
+        "label": "RSVP",
+        "link": "https://gdg.community.dev/events/details/google-gdg-cloud-silicon-valley-presents-pacific-region-devfest-2022/"
       },
       "howItWas": {
         "description": "Described by many as 'the best place for experience sharing in a phenomenal atmosphere.'",
