@@ -104,7 +104,7 @@
     "title": "About",
     "callToAction": {
       "featuredSessions": {
-        "description": "Pacific Region DevFest 2022 brings together the world class experts in Android, Web and Cloud technologies to San Francisco for sessions, workshops and showcases.",
+        "description": "Pacific Region DevFest 2022 brings together the world class experts in Web, Cloud, Machine Learning technologies to Mountain View for sessions and talks.",
         "label": "",
         "link": ""
       },
@@ -126,11 +126,11 @@
       },
       "sessions": {
         "label": "Sessions",
-        "number": "10"
+        "number": "10+"
       },
       "tracks": {
         "label": "Tracks",
-        "number": "3"
+        "number": "2"
       }
     }
   },
