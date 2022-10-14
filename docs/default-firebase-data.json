@@ -640,7 +640,37 @@
   },
   "team": [
     {
-      "members": [],
+      "members": [
+        {
+          "name": "Csaba Toth",
+          "photo": "/images/people/csaba_toth.jpg",
+          "photoUrl": "https://storage.googleapis.com/hoverboard-experimental.appspot.com/images/people/optim/csaba_toth.jpg",
+          "socials": [
+            {
+              "icon": "github",
+              "link": "https://github.com/MrCsabaToth",
+              "name": "GitHub"
+            },
+            {
+              "icon": "linkedin",
+              "link": "https://www.linkedin.com/in/csabatothdev",
+              "name": "LinkedIn"
+            },
+            {
+              "icon": "website",
+              "link": "https://csaba.page/",
+              "name": "Blog"
+            },
+            {
+              "icon": "twitter",
+              "link": "https://twitter.com/tocsa2",
+              "name": "Twitter"
+            }
+          ],
+          "order": 0,
+          "title": "Website and multi role"
+        }
+      ],
       "title": "Core Team"
     }
   ],
