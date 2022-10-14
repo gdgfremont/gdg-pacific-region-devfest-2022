@@ -144,7 +144,7 @@ export class TeamPage extends ReduxMixin(PolymerElement) {
               <div class="member" layout horizontal>
                 <lazy-image
                   class="photo"
-                  src="[[member.photoUrl]]"
+                  src="[[member.photo]]"
                   alt="[[member.name]]"
                 ></lazy-image>
 
