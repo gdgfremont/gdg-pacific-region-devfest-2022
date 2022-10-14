@@ -2,7 +2,7 @@
 
 ### Dates and Location
 
-Pacific Region DevFest 2022 will take place on the 3rd of October in [Mountain View CA.](https://goo.gl/maps/GBHH43JaUqg1S4EVA)
+Pacific Region DevFest 2022 will take place on the 3rd of November on-line virtually and in person in [Mountain View CA.](https://goo.gl/maps/GBHH43JaUqg1S4EVA)
 
 ### Livestream & Recordings
 
