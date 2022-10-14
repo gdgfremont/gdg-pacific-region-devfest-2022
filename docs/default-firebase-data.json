@@ -72,15 +72,6 @@
           "startTime": "13:10"
         },
         {
-          "endTime": "13:30",
-          "sessions": [
-            {
-              "items": ["103"]
-            }
-          ],
-          "startTime": "13:25"
-        },
-        {
           "endTime": "13:45",
           "sessions": [
             {
@@ -88,15 +79,6 @@
             }
           ],
           "startTime": "13:30"
-        },
-        {
-          "endTime": "13:50",
-          "sessions": [
-            {
-              "items": ["103"]
-            }
-          ],
-          "startTime": "13:45"
         },
         {
           "endTime": "14:10",
@@ -111,15 +93,6 @@
           "startTime": "13:50"
         },
         {
-          "endTime": "14:15",
-          "sessions": [
-            {
-              "items": ["103"]
-            }
-          ],
-          "startTime": "14:10"
-        },
-        {
           "endTime": "14:35",
           "sessions": [
             {
@@ -130,15 +103,6 @@
             }
           ],
           "startTime": "14:15"
-        },
-        {
-          "endTime": "14:40",
-          "sessions": [
-            {
-              "items": ["103"]
-            }
-          ],
-          "startTime": "14:35"
         },
         {
           "endTime": "15:00",
@@ -153,15 +117,6 @@
           "startTime": "14:40"
         },
         {
-          "endTime": "15:05",
-          "sessions": [
-            {
-              "items": ["103"]
-            }
-          ],
-          "startTime": "15:00"
-        },
-        {
           "endTime": "15:25",
           "sessions": [
             {
@@ -172,15 +127,6 @@
             }
           ],
           "startTime": "15:05"
-        },
-        {
-          "endTime": "15:30",
-          "sessions": [
-            {
-              "items": ["103"]
-            }
-          ],
-          "startTime": "15:25"
         },
         {
           "endTime": "15:50",
@@ -218,10 +164,10 @@
       ],
       "tracks": [
         {
-          "title": "Web and related"
+          "title": "Web +"
         },
         {
-          "title": "Cloud, AI and related"
+          "title": "Cloud, AI +"
         }
       ]
     }
