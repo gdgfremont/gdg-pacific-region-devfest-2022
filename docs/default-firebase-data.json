@@ -33,19 +33,31 @@
       "items": [
         {
           "order": 0,
-          "logoUrl": "../images/logos/google.svg",
+          "logoUrl": "/images/logos/google.svg",
           "name": "Google",
           "url": "https://about.google/"
         },
         {
           "order": 1,
-          "logoUrl": "../images/logos/gdg-x.svg",
+          "logoUrl": "/images/logos/hacker_dojo.png",
+          "name": "Hacker Dojo",
+          "url": "https://hackerdojo.org/"
+        },
+        {
+          "order": 2,
+          "logoUrl": "/images/logos/digits.svg",
+          "name": "Digits",
+          "url": "https://digits.com/"
+        },
+        {
+          "order": 3,
+          "logoUrl": "/images/logos/gdg-x.svg",
           "name": "GDG[x]",
           "url": "https://github.com/gdg-x"
         }
       ],
       "order": 0,
-      "title": "General Partner"
+      "title": "Partners"
     }
   ],
   "schedule": {
