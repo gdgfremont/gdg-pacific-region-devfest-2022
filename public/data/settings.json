@@ -117,7 +117,7 @@
   "location": {
     "label": "Location",
     "name": "Hacker Dojo",
-    "city": "Mountain View",
+    "city": "Hybrid: on-line and Mountain View in-person",
     "short": "Mountain View, CA",
     "address": "855 Maude Ave, Mountain View, CA 94043",
     "pointer": {
@@ -186,16 +186,16 @@
       "itemsCount": 2
     },
     "blog": {
-      "itemsCount": 3
+      "itemsCount": 0
     },
     "speakers": {
-      "itemsCount": 4
+      "itemsCount": 12
     },
     "previousSpeakers": {
-      "itemsCount": 6
+      "itemsCount": 0
     },
     "tickets": {
-      "itemsCount": 5
+      "itemsCount": 1
     }
   },
   "showForkMeBlockForProjectIds": ["hoverboard-master", "hoverboard-dev"]
