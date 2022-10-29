@@ -649,7 +649,7 @@
       "companyLogo": "/images/gdg-logo.svg",
       "companyLogoUrl": "https://storage.googleapis.com/pacific-region-devfest-2022.appspot.com/images/logos/google.svg",
       "country": "USA",
-      "featured": true,
+      "featured": false,
       "name": "Sherry Yang",
       "photo": "/images/people/sherry_yang.jpg",
       "photoUrl": "https://firebasestorage.googleapis.com/v0/b/pacific-region-devfest-2022.appspot.com/o/people%2Fsherry_yang.jpg?alt=media&token=188f923f-46d3-4186-ad29-1a974252c5f4",
