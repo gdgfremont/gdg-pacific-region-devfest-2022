@@ -360,7 +360,13 @@
       "photoUrl": "https://firebasestorage.googleapis.com/v0/b/pacific-region-devfest-2022.appspot.com/o/people%2Fchryssa_jones.jpg?alt=media&token=3ef80f04-964d-4a86-992c-f86d96245ba1",
       "pronouns": "she/her",
       "shortBio": "Chryssa Jones is a full-stack web developer based in Honolulu, Hawai'i",
-      "socials": [],
+      "socials": [
+        {
+          "icon": "twitter",
+          "link": "https://twitter.com/chryssajones",
+          "name": "Twitter"
+        }
+      ],
       "order": 1,
       "title": "Solutions Engineer and Design Lead"
     },
@@ -722,7 +728,159 @@
             }
           ],
           "order": 0,
-          "title": "Website and multi role"
+          "title": "Website"
+        },
+        {
+          "name": "Leopoldo Hernandez",
+          "photo": "/images/people/leopoldo_hernandez.jpg",
+          "photoUrl": "https://storage.googleapis.com/hoverboard-experimental.appspot.com/images/people/optim/leopoldo_hernandez.jpg",
+          "socials": [],
+          "order": 1,
+          "title": "Website"
+        },
+        {
+          "name": "Jim Hutson",
+          "photo": "/images/people/jim_hutson.jpg",
+          "photoUrl": "https://storage.googleapis.com/hoverboard-experimental.appspot.com/images/people/optim/jim_hutson.jpg",
+          "socials": [],
+          "order": 2,
+          "title": "Food/drinks/catering"
+        },
+        {
+          "name": "Emily Anderson",
+          "photo": "/images/people/emily_anderson.jpg",
+          "photoUrl": "https://storage.googleapis.com/hoverboard-experimental.appspot.com/images/people/optim/emily_anderson.jpg",
+          "socials": [
+            {
+              "icon": "twitter",
+              "link": "https://twitter.com/e_s_anderson",
+              "name": "Twitter"
+            }
+          ],
+          "order": 3,
+          "title": "Prizes"
+        },
+        {
+          "name": "Kevin Moore",
+          "photo": "/images/people/kevin_moore.jpg",
+          "photoUrl": "https://storage.googleapis.com/hoverboard-experimental.appspot.com/images/people/optim/kevin_moore.jpg",
+          "socials": [],
+          "order": 4,
+          "title": "Organizer"
+        },
+        {
+          "name": "Deepa Subramanian",
+          "photo": "/images/people/deepa_subramanian.jpg",
+          "photoUrl": "https://storage.googleapis.com/hoverboard-experimental.appspot.com/images/people/optim/deepa_subramanian.jpg",
+          "socials": [],
+          "order": 5,
+          "title": "Marketing"
+        },
+        {
+          "name": "Chryssa Jones",
+          "photo": "/images/people/chryssa_jones.jpg",
+          "photoUrl": "https://storage.googleapis.com/hoverboard-experimental.appspot.com/images/people/optim/chryssa_jones.jpg",
+          "socials": [
+            {
+              "icon": "twitter",
+              "link": "https://twitter.com/chryssajones",
+              "name": "Twitter"
+            }
+          ],
+          "order": 6,
+          "title": "Panel Organizer"
+        },
+        {
+          "name": "Tracy Lee",
+          "photo": "/images/people/tracy_lee.jpg",
+          "photoUrl": "https://storage.googleapis.com/hoverboard-experimental.appspot.com/images/people/optim/tracy_lee.jpg",
+          "socials": [],
+          "order": 7,
+          "title": "Speakers"
+        },
+        {
+          "name": "Matt Kaufman",
+          "photo": "/images/people/matt_kaufman.jpg",
+          "photoUrl": "https://storage.googleapis.com/hoverboard-experimental.appspot.com/images/people/optim/matt_kaufman.jpg",
+          "socials": [
+            {
+              "icon": "twitter",
+              "link": "https://twitter.com/the1mattkaufman",
+              "name": "Twitter"
+            }
+          ],
+          "order": 8,
+          "title": "Organizer"
+        },
+        {
+          "name": "Marie Smith",
+          "photo": "/images/people/marie_smith.jpg",
+          "photoUrl": "https://storage.googleapis.com/hoverboard-experimental.appspot.com/images/people/optim/marie_smith.jpg",
+          "socials": [
+            {
+              "icon": "twitter",
+              "link": "https://twitter.com/data360me",
+              "name": "Twitter"
+            }
+          ],
+          "order": 9,
+          "title": "Organizer"
+        },
+        {
+          "name": "Marsha Swallow",
+          "photo": "/images/people/marsha_swallow.jpg",
+          "photoUrl": "https://storage.googleapis.com/hoverboard-experimental.appspot.com/images/people/optim/marsha_swallow.jpg",
+          "socials": [
+            {
+              "icon": "twitter",
+              "link": "https://twitter.com/marsha331",
+              "name": "Twitter"
+            }
+          ],
+          "order": 10,
+          "title": "Organizer"
+        },
+        {
+          "name": "Vikram Tiwari",
+          "photo": "/images/people/vikram_tiwari.jpg",
+          "photoUrl": "https://storage.googleapis.com/hoverboard-experimental.appspot.com/images/people/optim/vikram_tiwari.jpg",
+          "socials": [
+            {
+              "icon": "twitter",
+              "link": "https://twitter.com/Vikram_Tiwari",
+              "name": "Twitter"
+            }
+          ],
+          "order": 11,
+          "title": "Speakers"
+        },
+        {
+          "name": "Riya Dashoriya",
+          "photo": "/images/people/riya_dashoriya.jpg",
+          "photoUrl": "https://storage.googleapis.com/hoverboard-experimental.appspot.com/images/people/optim/riya_dashoriya.jpg",
+          "socials": [
+            {
+              "icon": "twitter",
+              "link": "https://twitter.com/ReeyahSDasoriya",
+              "name": "Twitter"
+            }
+          ],
+          "order": 12,
+          "title": "Organizer"
+        },
+        {
+          "name": "Svetlin Stanchev",
+          "photo": "/images/people/svetlin_stanchev.jpg",
+          "photoUrl": "https://storage.googleapis.com/hoverboard-experimental.appspot.com/images/people/optim/svetlin_stanchev.jpg",
+          "socials": [
+            {
+              "icon": "twitter",
+              "link": "https://twitter.com/objectist",
+              "name": "Twitter"
+            }
+          ],
+          "order": 13,
+          "title": "Organizer"
         }
       ],
       "title": "Core Team"
