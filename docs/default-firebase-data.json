@@ -886,7 +886,13 @@
           "name": "Ed Choudhry",
           "photo": "/images/people/ed_choudhry.jpg",
           "photoUrl": "https://storage.googleapis.com/hoverboard-experimental.appspot.com/images/people/optim/ed_choudhry.jpg",
-          "socials": [],
+          "socials": [
+            {
+              "icon": "website",
+              "link": "https://hackerdojo.org",
+              "name": "Website"
+            }
+          ],
           "order": 14,
           "title": "Venue, NFT, digital swag"
         }
