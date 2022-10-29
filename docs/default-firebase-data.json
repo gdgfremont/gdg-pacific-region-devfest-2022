@@ -153,25 +153,13 @@
           "startTime": "15:30"
         },
         {
-          "endTime": "15:55",
-          "sessions": [
-            {
-              "items": ["110"]
-            },
-            {
-              "items": ["206"]
-            }
-          ],
-          "startTime": "15:50"
-        },
-        {
           "endTime": "16:00",
           "sessions": [
             {
               "items": ["111"]
             }
           ],
-          "startTime": "15:55"
+          "startTime": "15:50"
         }
       ],
       "tracks": [
@@ -190,15 +178,15 @@
       "description": "Get your badge, enjoy talking with tech addicts around",
       "language": "English",
       "tags": ["General"],
-      "title": "Check-in"
+      "title": "Welcome and Check-in"
     },
     "102": {
       "complexity": "Beginner",
-      "description": "Keynote",
+      "description": "This talk will focus on the evolution of cloud, where it's headed in the next few years and steps to build a sustainable career in cloud.",
       "language": "English",
       "speakers": ["priyanka_vergadia"],
       "tags": ["Cloud"],
-      "title": "Keynote"
+      "title": "Keynote - How to build a career in cloud"
     },
     "103": {
       "complexity": "Beginner",
@@ -209,19 +197,19 @@
     },
     "104": {
       "complexity": "Beginner",
-      "description": "Women Techmakers Panel",
+      "description": "Panelists Janine Lee and Sherry Yang will be discussing their experiences as women and leaders in the tech industry, how to be a better ally for women and minorities in tech, and how to create opportunity pipelines for women, including gender-inclusive interviewing and hiring practices. Moderated by Chryssa Jones.",
       "language": "English",
-      "speakers": ["chryssa_jones"],
+      "speakers": ["chryssa_jones", "sherry_yang", "janine_lee"],
       "tags": ["General"],
-      "title": "Women Techmakers Panel"
+      "title": "Women Techmakers Panel: Gender Inclusion in Tech"
     },
     "105": {
       "complexity": "Beginner",
-      "description": "State of Angular or Mobile with the Modern Web",
+      "description": "Learn about the recent developments happening at the Angular framework",
       "language": "English",
       "speakers": ["mark_thompson"],
       "tags": ["Web"],
-      "title": "State of Angular or Mobile with the Modern Web"
+      "title": "State of Angular"
     },
     "201": {
       "complexity": "Beginner",
@@ -417,7 +405,7 @@
         }
       ],
       "bio": "With a total of over 20 years of IT Experience I've spent the last 10 years being a passionate, customer-facing Google Cloud Evangelist, Engineer & Authorized Trainer working with all types of clients from different industries. Expert problem solver adept at using Google Cloud technologies and best practices to support Enterprise organizations. Early adopter and technology enthusiast with a passion for learning!",
-      "company": "GDE Expert",
+      "company": "Learn.Grow.Deploy, LLC",
       "companyLogo": "/images/gdg-logo.svg",
       "companyLogoUrl": "https://storage.googleapis.com/pacific-region-devfest-2022.appspot.com/images/gdg-logo.svg",
       "country": "USA",
@@ -450,7 +438,7 @@
         }
       ],
       "order": 3,
-      "title": "Solutions Architect and Cloud Trainer"
+      "title": "Solutions Architect and Google Cloud Trainer"
     },
     "justin_fagnani": {
       "bio": "Justin is the lead of the Lit core libraries on Google's web components team. He contributes to web component standards, the Web Components Community Group and previously worked Polymer tools, Dart, and Google App Maker.",
@@ -631,7 +619,7 @@
         }
       ],
       "order": 10,
-      "title": "software engineer at Angular Framework Team"
+      "title": "Software engineer at Angular Framework Team"
     },
     "chloe_he": {
       "bio": "Chloe graduated from Stanford University in 2022, with a Master's in Biomedical Informatics. She is currently a Founding Machine Learning Engineer at Claypot AI, building a platform for real-time machine learning.",
@@ -648,6 +636,60 @@
       "socials": [],
       "order": 11,
       "title": "Founder Engineer"
+    },
+    "sherry_yang": {
+      "bio": "Sherry is a polyglot programmer, who can adapt to languages, frameworks, and stacks in less than two weeks. She worked with JavaScript, Python, Django, Golang, React, Angular, Node.js, Ember.js, Jade, SASS, C/C++, C#/.NET, MongoDB, MSSQL, PostgreSQL, Arm Mbed, PHP, Elasticsearch, BrowserStack, Selenium, and the list goes on. Some of Sherry’s interested roles in tech is product management and project management which allow her to orchestrate an idea to reality and utilize her attention to details to ensure success. Sherry’s motivation is in creative solutions which impact the world in sustainability, education, and culture. Sherry most recently got promoted to a leadership role as an Engineering Team Lead with Adaptavist. Outside of work as a Women Techmakers Ambassador, Sherry actively connects people in the tech industry, focuses on empowering people with digital skills, and helps others recognize their growth potential. Sherry's tech career has been a roller coaster ride with various startups working with the latest technologies. Sherry is run by curiosity and always finds ways to discover a new path professionally and personally.",
+      "company": "Adaptavist",
+      "companyLogo": "/images/logos/gdg-logo.svg",
+      "companyLogoUrl": "https://storage.googleapis.com/pacific-region-devfest-2022.appspot.com/images/logos/google.svg",
+      "country": "USA",
+      "featured": true,
+      "name": "Sherry Yang",
+      "photo": "/images/people/sherry_yang.jpg",
+      "photoUrl": "https://firebasestorage.googleapis.com/v0/b/pacific-region-devfest-2022.appspot.com/o/people%2Fsherry_yang.jpg?alt=media&token=188f923f-46d3-4186-ad29-1a974252c5f4",
+      "pronouns": "she/her",
+      "shortBio": "Sherry is a polyglot programmer, who can adapt to languages, frameworks, and stacks in less than two weeks.",
+      "socials": [
+        {
+          "icon": "twitter",
+          "link": "https://twitter.com/5hel2l2y",
+          "name": "Twitter"
+        },
+        {
+          "icon": "linkedin",
+          "link": "https://www.linkedin.com/in/sherrylwyang/",
+          "name": "LinkedIn"
+        }
+      ],
+      "order": 12,
+      "title": "Engineering Team Lead | WTM Ambassador"
+    },
+    "janine_lee": {
+      "bio": "Janine Lee (she/her) is the Founder at Capture the Dream, Inc., a nonprofit that helps low-income youth achieve their educational endeavors. In the past 12 years, Capture the Dream, Inc. has helped thousands of low-income youth by sponsoring backpack school supply drives, micro-grants towards educational goals, free educational field trips, mentorship, and scholarship programs. 'Growing up in Oakland, I would have been sent to a public school that had a 50% drop-out rate. I was fortunate enough to have parents who could afford to send me to a private school for a better education. Not everyone in life has that opportunity. I want to be able to give that opportunity to others so they can get the resources, support, and mentorship they need to succeed. I believe that education can help break the cycle of poverty.'",
+      "company": "Google",
+      "companyLogo": "/images/logos/google.svg",
+      "companyLogoUrl": "https://storage.googleapis.com/pacific-region-devfest-2022.appspot.com/images/logos/google.svg",
+      "country": "USA",
+      "featured": true,
+      "name": "Janine Lee",
+      "photo": "/images/people/janine_lee.jpg",
+      "photoUrl": "https://firebasestorage.googleapis.com/v0/b/pacific-region-devfest-2022.appspot.com/o/people%2Fjanine_lee.jpg?alt=media&token=d37446eb-bd2a-47c7-9eca-3c702b2e3a52",
+      "pronouns": "she/her",
+      "shortBio": "Global L&D Leader @ Google | Leadership Dev | Adjunct Professor | Executive Coach | Continuous Improvement | Doctorate Candidate",
+      "socials": [
+        {
+          "icon": "linkedin",
+          "link": "https://www.linkedin.com/in/janinelee/",
+          "name": "LinkedIn"
+        },
+        {
+          "icon": "website",
+          "link": "https://www.janinelee.com",
+          "name": "Website"
+        }
+      ],
+      "order": 13,
+      "title": "Global Learning and Development Manager"
     }
   },
   "team": [
