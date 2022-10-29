@@ -881,6 +881,14 @@
           ],
           "order": 13,
           "title": "Organizer"
+        },
+        {
+          "name": "Ed Choudhry",
+          "photo": "/images/people/ed_choudhry.jpg",
+          "photoUrl": "https://storage.googleapis.com/hoverboard-experimental.appspot.com/images/people/optim/ed_choudhry.jpg",
+          "socials": [],
+          "order": 14,
+          "title": "Venue, NFT, digital swag"
         }
       ],
       "title": "Core Team"
