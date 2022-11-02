@@ -895,6 +895,13 @@
           ],
           "order": 14,
           "title": "Venue, NFT, digital swag"
+        },
+        {
+          "name": "Aniedi Udo-Obong",
+          "photo": "/images/people/aniedi_udo_obong.jpg",
+          "photoUrl": "https://storage.googleapis.com/hoverboard-experimental.appspot.com/images/people/optim/aniedi_udo_obong.jpg",
+          "order": 15,
+          "title": "Marketing and other support"
         }
       ],
       "title": "Core Team"
